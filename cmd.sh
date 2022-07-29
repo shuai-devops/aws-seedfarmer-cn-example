@@ -12,7 +12,7 @@ export AWS_SECRET_ACCESS_KEY=XXX
 export AWS_REGION=cn-northwest-1
 export AWS_DEFAULT_REGION=cn-northwest-1
 
-# 有可能需要cdk bootstrap一下，如果从来没有报过cdk的话
+# 有可能需要cdk bootstrap一下，如果从来没有执行过cdk的话
 codeseeder deploy seedkit exampleproj # 部署codeseeder工具包
 
 cd exampleproject/
