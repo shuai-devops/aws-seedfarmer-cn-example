@@ -1,10 +1,11 @@
 # aws-seedfarmer-cn-example
 This is a sample project from aws lib seedfarmer of China region
 For more information, please refer to:
-https://github.com/awslabs/seed-farmer
-https://seed-farmer.readthedocs.io/en/latest/project_structure.html
-and the ADDF project based on Seedfarmer
-https://github.com/awslabs/autonomous-driving-data-framework
+* https://github.com/awslabs/seed-farmer
+* https://seed-farmer.readthedocs.io/en/latest/project_structure.html
+
+And the ADDF project based on the Seedfarmer
+* https://github.com/awslabs/autonomous-driving-data-framework
 
 # seedfarmer cheetsheet
 
